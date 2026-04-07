@@ -1,4 +1,4 @@
-# Inwebo Country Model
+# PHP Country Model
 
 ISO 3166 code's PHP ^8.1 implementation.
 
